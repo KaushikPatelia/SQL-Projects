@@ -1,1 +1,1 @@
-# SQL-Projects
+A collection of SQL projects focused on data analysis tasks. The projects within this repository demonstrate proficiency in querying relational databases using SQL to extract, transform, and analyze data. Each project is designed to showcase different aspects of SQL, including complex queries, joins, aggregations, and data manipulation.
